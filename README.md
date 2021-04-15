@@ -1,3 +1,6 @@
+# Disclosure
+This was my first time using Node and Javascript. I only used what was already in the original .js file when I first cloned it to make it what it is now. My point being that anyone who is reading this can do the same. This is important to understand because the Newegg website is constantly changing. As soon as one thing gets changed that this program depends on, the entire thing will not work. If something isn't working for you, do what I did, start from the top of the .js file and debug.
+
 # NeweggBot
 Autonomously buy Products such as RTX 3080 from Newegg as soon as they become available
 
